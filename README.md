@@ -14,6 +14,83 @@ Master algorithms through intelligent guidance, not just solutions.
 
 </div>
 
+---
+
+## How to Use This Skill
+
+### Setup
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/karanb192/algo-sensei.git
+cd algo-sensei
+
+# 2. Open Claude Code in this directory
+claude .
+```
+
+**`PRACTICE.md` is the source of truth for your progress.** It contains 120 curated problems ordered by interview priority, each with a status field you can update manually or via commands.
+
+---
+
+### Daily Workflow
+
+```
+1. Open terminal in the repo directory → run: claude .
+2. Type:  lets solve
+   → Claude finds your current ► problem and presents it (no hints yet)
+3. Think it through, write your Java solution
+4. Type:  here is my solution
+   [paste your code]
+5. Answer Claude's cross-questions to prove real understanding
+6. Problem gets marked [x], ► moves to the next one
+7. Optionally type:  log today's session
+   → Updates PROGRESS.md with your streak and session notes
+```
+
+---
+
+### Commands Reference
+
+| What you type | What happens |
+|---------------|-------------|
+| `lets solve` | Presents the current ► problem |
+| `lets solve #042` | Jump to a specific problem by number |
+| `here is my solution` | Enter post-solve review + cross-questioning |
+| `I solved it` | Same as above |
+| `skip` | Marks current problem `[~]` (attempted), moves ► forward |
+| `too hard` | Same as skip |
+| `mark attempted` | Same as skip |
+| `mark solved #042` | Marks problem #042 as `[x]` without a review session |
+| `update practice` | Shows current topic progress summary |
+| `log today's session` | Updates PROGRESS.md with today's work |
+
+---
+
+### Manual Overrides
+
+**PRACTICE.md is a plain Markdown file — edit it directly any time.**
+
+- Mark a problem solved by hand: change `[ ]` → `[x]`
+- Mark attempted: change `[ ]` → `[~]`
+- Mark mastered: change `[x]` → `[★]`
+- Move the `►` marker to any problem you want to work on next
+- Update the `[0/6]` counters in section headers after manual edits
+
+---
+
+### What the Practice System Does
+
+When you submit a solution, Claude doesn't just tell you if it's correct. It:
+1. Reviews time/space complexity and gives Java-specific idiom feedback
+2. Asks 3–5 cross-questions about **why** the solution works — edge cases, tradeoffs, variants
+3. Only marks the problem solved after you've answered satisfactorily
+4. Connects patterns to real backend systems (LRU cache, TCP flow control, DB indexes, etc.)
+
+The goal isn't to grind 120 problems. It's to build genuine pattern intuition so you can solve problems you've never seen before.
+
+---
+
 **Algo Sensei** is an intelligent Claude Code skill that transforms how you practice LeetCode and master Data Structures & Algorithms. Instead of just giving you answers, it **teaches you to think** like a senior engineer.
 
 ## Why Algo Sensei?
