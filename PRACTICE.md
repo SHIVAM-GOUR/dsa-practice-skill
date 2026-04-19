@@ -1,8 +1,69 @@
 # DSA Practice Tracker
 
-**Overall: 0/120 solved**
+**Overall: 0/150 solved**
 
 > Legend: `[ ]` Unsolved · `[~]` Attempted · `[x]` Solved · `[★]` Mastered · `►` Current
+
+---
+
+## 🌱 Foundations [0/30]
+
+> Start here if you're new to DSA. Grouped by concept — complete each group before moving to the next.
+
+### Group 1: Array Basics (read, write, iterate)
+
+| # | Problem | Difficulty | Status | LeetCode |
+|---|---------|------------|--------|----------|
+| F01 ► | Running Sum of 1d Array | Easy | [ ] | [LC#1480](https://leetcode.com/problems/running-sum-of-1d-array/) |
+| F02 | Concatenation of Array | Easy | [ ] | [LC#1929](https://leetcode.com/problems/concatenation-of-array/) |
+| F03 | Shuffle the Array | Easy | [ ] | [LC#1470](https://leetcode.com/problems/shuffle-the-array/) |
+| F04 | Find Numbers with Even Number of Digits | Easy | [ ] | [LC#1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) |
+| F05 | Maximum Product of Two Elements in an Array | Easy | [ ] | [LC#1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) |
+| F06 | Richest Customer Wealth | Easy | [ ] | [LC#1672](https://leetcode.com/problems/richest-customer-wealth/) |
+
+### Group 2: Loops & Conditions
+
+| # | Problem | Difficulty | Status | LeetCode |
+|---|---------|------------|--------|----------|
+| F07 | FizzBuzz | Easy | [ ] | [LC#412](https://leetcode.com/problems/fizzbuzz/) |
+| F08 | Number of Steps to Reduce a Number to Zero | Easy | [ ] | [LC#1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) |
+| F09 | Palindrome Number | Easy | [ ] | [LC#9](https://leetcode.com/problems/palindrome-number/) |
+| F10 | Count Odd Numbers in an Interval Range | Easy | [ ] | [LC#1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) |
+| F11 | Number of Good Pairs | Easy | [ ] | [LC#1512](https://leetcode.com/problems/number-of-good-pairs/) |
+| F12 | Count of Matches in Tournament | Easy | [ ] | [LC#1688](https://leetcode.com/problems/count-of-matches-in-tournament/) |
+
+### Group 3: String Manipulation
+
+| # | Problem | Difficulty | Status | LeetCode |
+|---|---------|------------|--------|----------|
+| F13 | Defanging an IP Address | Easy | [ ] | [LC#1108](https://leetcode.com/problems/defanging-an-ip-address/) |
+| F14 | Reverse String | Easy | [ ] | [LC#344](https://leetcode.com/problems/reverse-string/) |
+| F15 | Reverse Words in a String III | Easy | [ ] | [LC#557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |
+| F16 | Length of Last Word | Easy | [ ] | [LC#58](https://leetcode.com/problems/length-of-last-word/) |
+| F17 | Truncate Sentence | Easy | [ ] | [LC#1816](https://leetcode.com/problems/truncate-sentence/) |
+| F18 | Maximum Number of Words Found in Sentences | Easy | [ ] | [LC#2114](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) |
+
+### Group 4: Counting & Frequency Maps
+
+| # | Problem | Difficulty | Status | LeetCode |
+|---|---------|------------|--------|----------|
+| F19 | Jewels and Stones | Easy | [ ] | [LC#771](https://leetcode.com/problems/jewels-and-stones/) |
+| F20 | First Unique Character in a String | Easy | [ ] | [LC#387](https://leetcode.com/problems/first-unique-character-in-a-string/) |
+| F21 | Check if the Sentence Is Pangram | Easy | [ ] | [LC#1832](https://leetcode.com/problems/check-whether-the-sentence-is-pangram/) |
+| F22 | How Many Numbers Are Smaller Than the Current Number | Easy | [ ] | [LC#1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
+| F23 | Kids With the Greatest Number of Candies | Easy | [ ] | [LC#1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) |
+| F24 | Find the Difference | Easy | [ ] | [LC#389](https://leetcode.com/problems/find-the-difference/) |
+
+### Group 5: Math & Index Tricks
+
+| # | Problem | Difficulty | Status | LeetCode |
+|---|---------|------------|--------|----------|
+| F25 | Subtract the Product and Sum of Digits of an Integer | Easy | [ ] | [LC#1281](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) |
+| F26 | Missing Number | Easy | [ ] | [LC#268](https://leetcode.com/problems/missing-number/) |
+| F27 | Final Value of Variable After Performing Operations | Easy | [ ] | [LC#2011](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) |
+| F28 | Create Target Array in the Given Order | Easy | [ ] | [LC#1389](https://leetcode.com/problems/create-target-array-in-the-given-order/) |
+| F29 | Sum of All Odd Length Subarrays | Easy | [ ] | [LC#1588](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) |
+| F30 | Check if Array Is Sorted and Rotated | Easy | [ ] | [LC#1752](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
 
 ---
 
@@ -10,7 +71,7 @@
 
 | # | Problem | Difficulty | Status | LeetCode |
 |---|---------|------------|--------|----------|
-| #001 ► | Two Sum | Easy | [ ] | [LC#1](https://leetcode.com/problems/two-sum/) |
+| #001 | Two Sum | Easy | [ ] | [LC#1](https://leetcode.com/problems/two-sum/) |
 | #002 | Best Time to Buy and Sell Stock | Easy | [ ] | [LC#121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | #003 | Contains Duplicate | Easy | [ ] | [LC#217](https://leetcode.com/problems/contains-duplicate/) |
 | #004 | Product of Array Except Self | Medium | [ ] | [LC#238](https://leetcode.com/problems/product-of-array-except-self/) |
