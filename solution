@@ -1,18 +1,22 @@
 class solution {
-    public int[] solution(int[] nums, int n) {
-        int[] output = new int[nums.length];
+    public int solution(int[] nums) {
+        int count = 0;
+        for(int i=0; i<nums.length; i ++) {
+            int digits = 0;
+            int n = nums[i];
 
-        int i = 0;
-        int p = 0;
-
-        while(i < nums.length) {
-            output[i] = nums[p];
-            output[i+1] = nums[p+n];
-            i += 2;
-            p++;
+            while( n > 0) {
+                n /= 10;
+                digits++;
+            }
+            // if (String.valueOf(nums[i]).length() % 2 == 0) {
+            if (digits % 2 == 0) {
+                count++;
+            }
         }
 
-        return output;
+        return count;
 
     }
 }
+

@@ -43,7 +43,7 @@
 
 | Date | Problems Attempted | Problems Solved | Notes |
 |------|-------------------|-----------------|-------|
-| 2026-04-23 | 3 | 3 | F01 Running Sum of 1d Array, F02 Concatenation of Array, F03 Shuffle the Array |
+| 2026-04-23 | 4 | 4 | F01 Running Sum of 1d Array, F02 Concatenation of Array, F03 Shuffle the Array, F04 Find Numbers with Even Number of Digits |
 
 ---
 
