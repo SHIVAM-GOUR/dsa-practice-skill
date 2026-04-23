@@ -43,7 +43,7 @@
 
 | Date | Problems Attempted | Problems Solved | Notes |
 |------|-------------------|-----------------|-------|
-| 2026-04-23 | 2 | 2 | F01 Running Sum of 1d Array, F02 Concatenation of Array |
+| 2026-04-23 | 3 | 3 | F01 Running Sum of 1d Array, F02 Concatenation of Array, F03 Shuffle the Array |
 
 ---
 
