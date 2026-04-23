@@ -1,14 +1,14 @@
 # Progress Tracker
 
 ## Streak
-**Current streak:** 0 days
-**Last practiced:** —
-**Longest streak:** 0 days
+**Current streak:** 1 day
+**Last practiced:** 2026-04-23
+**Longest streak:** 1 day
 
 ---
 
 ## Milestones
-- [ ] First problem solved
+- [x] First problem solved
 - [ ] 10 problems solved
 - [ ] Complete Arrays (6/6)
 - [ ] Complete Strings (6/6)
@@ -21,7 +21,7 @@
 - [ ] 100 problems solved
 - [ ] All 120 problems solved 🎉
 
-**Next milestone:** Solve your first problem → mark #001 [x]
+**Next milestone:** Solve 10 problems
 
 ---
 
@@ -43,7 +43,7 @@
 
 | Date | Problems Attempted | Problems Solved | Notes |
 |------|-------------------|-----------------|-------|
-| — | — | — | No sessions yet |
+| 2026-04-23 | 2 | 2 | F01 Running Sum of 1d Array, F02 Concatenation of Array |
 
 ---
 
