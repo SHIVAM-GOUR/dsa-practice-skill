@@ -1,6 +1,6 @@
 # DSA Practice Tracker
 
-**Overall: 4/358 solved**
+**Overall: 5/358 solved**
 
 > Legend: `[ ]` Unsolved · `[~]` Attempted · `[x]` Solved · `[★]` Mastered · `►` Current
 
@@ -18,8 +18,8 @@
 | F02 | Concatenation of Array | Easy | [x] | [LC#1929](https://leetcode.com/problems/concatenation-of-array/) |
 | F03 | Shuffle the Array | Easy | [x] | [LC#1470](https://leetcode.com/problems/shuffle-the-array/) |
 | F04 | Find Numbers with Even Number of Digits | Easy | [x] | [LC#1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) |
-| F05 ► | Maximum Product of Two Elements in an Array | Easy | [ ] | [LC#1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) |
-| F06 | Richest Customer Wealth | Easy | [ ] | [LC#1672](https://leetcode.com/problems/richest-customer-wealth/) |
+| F05 | Maximum Product of Two Elements in an Array | Easy | [x] | [LC#1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) |
+| F06 ► | Richest Customer Wealth | Easy | [ ] | [LC#1672](https://leetcode.com/problems/richest-customer-wealth/) |
 
 ### Group 2: Loops & Conditions
 

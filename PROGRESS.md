@@ -1,9 +1,9 @@
 # Progress Tracker
 
 ## Streak
-**Current streak:** 1 day
-**Last practiced:** 2026-04-23
-**Longest streak:** 1 day
+**Current streak:** 2 days
+**Last practiced:** 2026-04-24
+**Longest streak:** 2 days
 
 ---
 
@@ -44,6 +44,7 @@
 | Date | Problems Attempted | Problems Solved | Notes |
 |------|-------------------|-----------------|-------|
 | 2026-04-23 | 4 | 4 | F01 Running Sum of 1d Array, F02 Concatenation of Array, F03 Shuffle the Array, F04 Find Numbers with Even Number of Digits |
+| 2026-04-24 | 1 | 1 | F05 Maximum Product of Two Elements in an Array |
 
 ---
 
