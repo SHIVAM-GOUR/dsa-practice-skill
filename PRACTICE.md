@@ -1,6 +1,6 @@
 # DSA Practice Tracker
 
-**Overall: 5/358 solved**
+**Overall: 6/358 solved**
 
 > Legend: `[ ]` Unsolved · `[~]` Attempted · `[x]` Solved · `[★]` Mastered · `►` Current
 
@@ -19,13 +19,13 @@
 | F03 | Shuffle the Array | Easy | [x] | [LC#1470](https://leetcode.com/problems/shuffle-the-array/) |
 | F04 | Find Numbers with Even Number of Digits | Easy | [x] | [LC#1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) |
 | F05 | Maximum Product of Two Elements in an Array | Easy | [x] | [LC#1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) |
-| F06 ► | Richest Customer Wealth | Easy | [ ] | [LC#1672](https://leetcode.com/problems/richest-customer-wealth/) |
+| F06 | Richest Customer Wealth | Easy | [x] | [LC#1672](https://leetcode.com/problems/richest-customer-wealth/) |
 
 ### Group 2: Loops & Conditions
 
 | # | Problem | Difficulty | Status | LeetCode |
 |---|---------|------------|--------|----------|
-| F07 | FizzBuzz | Easy | [ ] | [LC#412](https://leetcode.com/problems/fizzbuzz/) |
+| F07 ► | FizzBuzz | Easy | [ ] | [LC#412](https://leetcode.com/problems/fizzbuzz/) |
 | F08 | Number of Steps to Reduce a Number to Zero | Easy | [ ] | [LC#1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) |
 | F09 | Palindrome Number | Easy | [ ] | [LC#9](https://leetcode.com/problems/palindrome-number/) |
 | F10 | Count Odd Numbers in an Interval Range | Easy | [ ] | [LC#1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) |
