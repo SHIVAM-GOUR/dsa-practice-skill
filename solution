@@ -1,21 +1,16 @@
 class solution {
     public int solution(int[] nums) {
-        int count = 0;
-        for(int i=0; i<nums.length; i ++) {
-            int digits = 0;
-            int n = nums[i];
-
-            while( n > 0) {
-                n /= 10;
-                digits++;
-            }
-            // if (String.valueOf(nums[i]).length() % 2 == 0) {
-            if (digits % 2 == 0) {
-                count++;
+        int output = 0;
+        int x = 0;
+        int y = 0;
+        for(int i = 0; i < nums.length; i++) {
+            if (nums[i] >= nums[x]) {
+                y = x;
+                x = i;
             }
         }
-
-        return count;
+        output = (nums[x]-1)*(nums[y]-1); 
+        return output;
 
     }
 }
