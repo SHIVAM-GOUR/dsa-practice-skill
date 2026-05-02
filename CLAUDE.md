@@ -20,6 +20,17 @@ When a solution is confirmed correct and the user agrees to mark it solved:
    - Alternative approaches and their pros/cons
    - Do NOT ask generic DSA trivia — questions must be anchored to their actual code
 
+## New Problem Setup
+
+When a new problem is introduced (e.g. "F07", "next problem", "lets solve"):
+1. Present the problem statement as usual
+2. **Immediately update `solution.java`** — replace all existing code with a clean LeetCode-style scaffold:
+   - Correct class name (`Solution`)
+   - Method signature matching the problem (correct return type + parameters)
+   - Empty method body (just `// your code here` or a default return)
+   - A `main` method with the provided test cases pre-filled as `System.out.println(...)` calls
+3. Do NOT scaffold during cross questioning — only for new problems from the tracker
+
 ## Practice Language
 - User writes solutions in **Java**
 - Always use idiomatic Java: `ArrayDeque` (not `Stack`), `HashMap`/`HashSet`, `PriorityQueue`

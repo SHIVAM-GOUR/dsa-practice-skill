@@ -1,8 +1,8 @@
 # Progress Tracker
 
 ## Streak
-**Current streak:** 2 days
-**Last practiced:** 2026-04-24
+**Current streak:** 1 days
+**Last practiced:** 2026-05-02
 **Longest streak:** 2 days
 
 ---
@@ -45,6 +45,7 @@
 |------|-------------------|-----------------|-------|
 | 2026-04-23 | 4 | 4 | F01 Running Sum of 1d Array, F02 Concatenation of Array, F03 Shuffle the Array, F04 Find Numbers with Even Number of Digits |
 | 2026-04-24 | 2 | 2 | F05 Maximum Product of Two Elements in an Array, F06 Richest Customer Wealth |
+| 2026-05-02 | 2 | 2 | F07 FizzBuzz, F08 Number of Steps to Reduce a Number to Zero |
 
 ---
 

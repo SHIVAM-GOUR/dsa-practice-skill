@@ -1,6 +1,6 @@
 # DSA Practice Tracker
 
-**Overall: 6/358 solved**
+**Overall: 8/358 solved**
 
 > Legend: `[ ]` Unsolved · `[~]` Attempted · `[x]` Solved · `[★]` Mastered · `►` Current
 
@@ -25,9 +25,9 @@
 
 | # | Problem | Difficulty | Status | LeetCode |
 |---|---------|------------|--------|----------|
-| F07 ► | FizzBuzz | Easy | [ ] | [LC#412](https://leetcode.com/problems/fizzbuzz/) |
-| F08 | Number of Steps to Reduce a Number to Zero | Easy | [ ] | [LC#1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) |
-| F09 | Palindrome Number | Easy | [ ] | [LC#9](https://leetcode.com/problems/palindrome-number/) |
+| F07 | FizzBuzz | Easy | [x] | [LC#412](https://leetcode.com/problems/fizzbuzz/) |
+| F08 | Number of Steps to Reduce a Number to Zero | Easy | [x] | [LC#1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) |
+| F09 ► | Palindrome Number | Easy | [ ] | [LC#9](https://leetcode.com/problems/palindrome-number/) |
 | F10 | Count Odd Numbers in an Interval Range | Easy | [ ] | [LC#1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) |
 | F11 | Number of Good Pairs | Easy | [ ] | [LC#1512](https://leetcode.com/problems/number-of-good-pairs/) |
 | F12 | Count of Matches in Tournament | Easy | [ ] | [LC#1688](https://leetcode.com/problems/count-of-matches-in-tournament/) |
